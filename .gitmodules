@@ -1,0 +1,9 @@
+[submodule "mmsegmentation"]
+	path = mmsegmentation
+	url = https://github.com/open-mmlab/mmsegmentation.git
+[submodule "Eval-struction"]
+	path = Eval-struction
+	url = https://github.com/DYEvaLab/EvalMuse-Structure.git
+[submodule "EVA"]
+	path = EVA
+	url = https://github.com/baaivision/EVA.git
